@@ -1,3 +1,6 @@
 [submodule "hh-ru"]
 	path = hh-ru
 	url = https://github.com/hhru/frontend-test
+[submodule "tutu-ru"]
+	path = tutu-ru
+	url = https://github.com/tutu-ru/frontend-javascript-test
