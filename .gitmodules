@@ -1,0 +1,3 @@
+[submodule "hh-ru"]
+	path = hh-ru
+	url = https://github.com/hhru/frontend-test
