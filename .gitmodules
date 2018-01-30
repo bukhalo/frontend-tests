@@ -7,3 +7,6 @@
 [submodule "sports-ru"]
 	path = sports-ru
 	url = https://github.com/sportsru/table-task
+[submodule "2GIS"]
+	path = 2GIS
+	url = https://github.com/Chaptykov/testTask
