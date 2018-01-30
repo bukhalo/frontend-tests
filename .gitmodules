@@ -4,3 +4,6 @@
 [submodule "tutu-ru"]
 	path = tutu-ru
 	url = https://github.com/tutu-ru/frontend-javascript-test
+[submodule "sports-ru"]
+	path = sports-ru
+	url = https://github.com/sportsru/table-task
